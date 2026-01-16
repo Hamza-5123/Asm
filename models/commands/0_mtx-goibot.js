@@ -74,7 +74,7 @@ if ((event.body.toLowerCase() == "love you") || (event.body.toLowerCase() == "i 
    };
 
    if ((event.body.toLowerCase() == "mera bot") || (event.body.toLowerCase() == "wow murree sa")) {
-     return api.sendMessage("️𝑴𝑻𝑿 💚✨ kìrâñ RajPööt ☠️🏴‍☠️ ka bot hu 🙈❤️", threadID, messageID);
+     return api.sendMessage("️𝑴𝑻𝑿 💚✨ 𝑯𝑨𝑴𝒁𝑨 𝑴𝑨𝑺𝑶𝑶𝑴 ☠️🏴‍☠️ ka bot hu 🙈❤️", threadID, messageID);
    };
 
    if ((event.body.toLowerCase() == "Bot kia kRte ho ap") || (event.body.toLowerCase() == "kia karte ho")) {
@@ -126,7 +126,7 @@ if ((event.body.toLowerCase() == "love you") || (event.body.toLowerCase() == "i 
    };
 
    if ((event.body.toLowerCase() == "bf") || (event.body.toLowerCase() == "Bf")) {
-     return api.sendMessage("️𝐌𝐄𝐑𝐄 𝐋𝐈𝐘𝐄 𝐁𝐅 𝐊𝐀 𝐌𝐀𝐓𝐋𝐀𝐁 𝐁𝐎𝐘𝐅𝐑𝐈𝐄𝐍𝐃 𝐍𝐇𝐈 𝐁𝐑𝐄𝐀𝐊-𝐅𝐀𝐒𝐓 𝐇𝐎𝐓𝐀 𝐇𝐀𝐈 🍳😋😋", threadID, messageID);
+     return api.sendMessage("️𝐌𝐄𝐑𝐄 𝐋𝐈𝐘𝐄 𝑮𝐅 𝐊𝐀 𝐌𝐀𝐓𝐋𝐀𝐁 𝑮𝑰𝑹𝑳𝐅𝐑𝐈𝐄𝐍𝐃 𝐍𝐇𝐈 𝐁𝐑𝐄𝐀𝐊-𝐅𝐀𝐒𝐓 𝐇𝐎𝐓𝐀 𝐇𝐀𝐈 🍳😋😋", threadID, messageID);
    };
 
    if ((event.body.toLowerCase() == "meRi jan ho") || (event.body.toLowerCase() == "tm meRi jan ho")) {
@@ -373,7 +373,7 @@ if ((event.body.toLowerCase() == "Hi") || (event.body.toLowerCase() == "hi")) {
    };
 
   if ((event.body.toLowerCase() == "uzi") || (event.body.toLowerCase() == "uzi")) {
-     return api.sendMessage("UZAIR KING FACEBOOK OWNER ❤️", threadID);
+     return api.sendMessage("HAMZA KING FACEBOOK OWNER ❤️", threadID);
    };
 
   if ((event.body.toLowerCase() == "Nusaiba") || (event.body.toLowerCase() == "nusaiba")) {
@@ -499,7 +499,7 @@ if ((event.body.toLowerCase() == "sim miss you yr") || (event.body.toLowerCase()
 
   if (event.body.indexOf("bot") == 0 || (event.body.indexOf("Bot") == 0)) {
     var msg = {
-      body: `╔═════▓࿇💚࿇▓═════╗\n        ${name}\n╚═════▓࿇💚࿇▓═════╝\n\n●▬ൠൠ▬𝙊𝙬𝙣𝙚𝙧▬ൠൠ▬●\n\n◈━━━━𝑼𝒛𝒂𝒊𝒓𝑴𝑻𝑿━━━━━◈\n\n\n${rand}\n\n\n◈━━━━ᴅᴇᴡᴀɴɪ𝐱͜͡ᴆ━━━━━◈` 
+      body: `╔═════▓࿇💚࿇▓═════╗\n        ${name}\n╚═════▓࿇💚࿇▓═════╝\n\n●▬ൠൠ▬𝙊𝙬𝙣𝙚𝙧▬ൠൠ▬●\n\n◈━━━━𝑯𝑨𝑴𝒁𝑨 𝑲𝑯𝑨𝑵━━━━━◈\n\n\n${rand}\n\n\n◈━━━━ᴅᴇᴡᴀɴɪ𝐱͜͡ᴆ━━━━━◈` 
     }
     return api.sendMessage(msg, threadID, messageID);
   };
